@@ -53,7 +53,7 @@
 					<AmmoMax50MP value="10"/>
 					<AmmoMax100MP value="10"/>
 					<AmmoFlags>FixedAfterExplosion</AmmoFlags>
-					<Damage value="50.000000"/>
+					<Damage value="200.000000"/>
 					<LifeTime value="10.000000"/>
 					<FromVehicleLifeTime value="10.000000"/>
 					<LifeTimeAfterImpact value="10.000000"/>
@@ -156,7 +156,7 @@
 					<MinHeadShotDistancePlayer value="5.000000"/>
 					<MaxHeadShotDistancePlayer value="40.000000"/>
 					<HeadShotDamageModifierPlayer value="90.000000"/>
-					<Damage value="0.000000"/>
+					<Damage value="200.000000"/>
 					<DamageTime value="0.000000"/>
 					<DamageTimeInVehicle value="0.000000"/>
 					<DamageTimeInVehicleHeadShot value="0.000000"/>
