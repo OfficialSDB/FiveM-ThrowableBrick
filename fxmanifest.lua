@@ -9,6 +9,9 @@ description 'Add-on Bricks'
 -- Brick Model By KYLIN GAME．
 -- https://www.gta5-mods.com/weapons/brick-replace-fivem
 
+-- Brick collision fix & retexture by OfficialSDB
+-- https://github.com/OfficialSDB/FiveM-ThrowableBrick
+
 client_script 'cl_weaponNames.lua'
 
 files{
